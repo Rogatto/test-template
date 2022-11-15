@@ -9,7 +9,7 @@ This repository contains a test scenario template to import or export using any 
 	> 
 
 
-Help us to figure out the best test temolate for the market:
+Help us to figure out the best test temolate interface for the market, so they can consume or export using:
 
 ```mermaid
 graph LR
